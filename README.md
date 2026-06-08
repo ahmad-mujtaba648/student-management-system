@@ -26,6 +26,8 @@ This project simulates a basic **student management system** that stores and pro
 ## 🖥️ Sample Output
 
 ![Output 1](output-1.png)
+
+---
 **Output 1** — Student "Sara" searched successfully, highest/lowest marks displayed, science class filter applied, total fee calculated, and pass list shown.
 ![Output 2](output-2.png)
 **Output 2** — Student "Mujtaba" searched but not found in the system, demonstrating the error handling feature.
